@@ -1,4 +1,4 @@
-jsfdemo
+JSF Demo
 =======
 
-JSF Demo
+JSF demo project using primefaces
